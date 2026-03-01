@@ -1,4 +1,4 @@
-# 📊 Olist FinOps Analytics
+# 📊 Olist Financial Performance Analytics Dashboard
 
 ## 🔎 Project Overview
 
