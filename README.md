@@ -6,6 +6,8 @@ This project presents an end-to-end Financial Operations (FinOps) analytics solu
 
 The objective was to clean raw transactional data using Python, load it into PostgreSQL, and build an interactive Power BI dashboard to generate business insights.
 ---
+<img width="1323" height="740" alt="dashboard" src="https://github.com/user-attachments/assets/5b3908cf-2222-4767-9746-5fa57f2f6c79" />
+
 
 ## 🛠️ Tools & Technologies Used
 
